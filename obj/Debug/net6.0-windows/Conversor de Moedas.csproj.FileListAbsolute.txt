@@ -1,0 +1,17 @@
+C:\Users\Jadoka\source\repos\Conversor de Moedas\Conversor de Moedas\bin\Debug\net6.0-windows\Conversor de Moedas.exe
+C:\Users\Jadoka\source\repos\Conversor de Moedas\Conversor de Moedas\bin\Debug\net6.0-windows\Conversor de Moedas.deps.json
+C:\Users\Jadoka\source\repos\Conversor de Moedas\Conversor de Moedas\bin\Debug\net6.0-windows\Conversor de Moedas.runtimeconfig.json
+C:\Users\Jadoka\source\repos\Conversor de Moedas\Conversor de Moedas\bin\Debug\net6.0-windows\Conversor de Moedas.dll
+C:\Users\Jadoka\source\repos\Conversor de Moedas\Conversor de Moedas\bin\Debug\net6.0-windows\Conversor de Moedas.pdb
+C:\Users\Jadoka\source\repos\Conversor de Moedas\Conversor de Moedas\obj\Debug\net6.0-windows\Conversor de Moedas.csproj.AssemblyReference.cache
+C:\Users\Jadoka\source\repos\Conversor de Moedas\Conversor de Moedas\obj\Debug\net6.0-windows\Conversor_de_Moedas.Form1.resources
+C:\Users\Jadoka\source\repos\Conversor de Moedas\Conversor de Moedas\obj\Debug\net6.0-windows\Conversor de Moedas.csproj.GenerateResource.cache
+C:\Users\Jadoka\source\repos\Conversor de Moedas\Conversor de Moedas\obj\Debug\net6.0-windows\Conversor de Moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jadoka\source\repos\Conversor de Moedas\Conversor de Moedas\obj\Debug\net6.0-windows\Conversor de Moedas.AssemblyInfoInputs.cache
+C:\Users\Jadoka\source\repos\Conversor de Moedas\Conversor de Moedas\obj\Debug\net6.0-windows\Conversor de Moedas.AssemblyInfo.cs
+C:\Users\Jadoka\source\repos\Conversor de Moedas\Conversor de Moedas\obj\Debug\net6.0-windows\Conversor de Moedas.csproj.CoreCompileInputs.cache
+C:\Users\Jadoka\source\repos\Conversor de Moedas\Conversor de Moedas\obj\Debug\net6.0-windows\Conversor de Moedas.dll
+C:\Users\Jadoka\source\repos\Conversor de Moedas\Conversor de Moedas\obj\Debug\net6.0-windows\refint\Conversor de Moedas.dll
+C:\Users\Jadoka\source\repos\Conversor de Moedas\Conversor de Moedas\obj\Debug\net6.0-windows\Conversor de Moedas.pdb
+C:\Users\Jadoka\source\repos\Conversor de Moedas\Conversor de Moedas\obj\Debug\net6.0-windows\Conversor de Moedas.genruntimeconfig.cache
+C:\Users\Jadoka\source\repos\Conversor de Moedas\Conversor de Moedas\obj\Debug\net6.0-windows\ref\Conversor de Moedas.dll
